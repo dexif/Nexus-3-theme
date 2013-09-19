@@ -1,5 +1,5 @@
 [
-	//	Nexus theme for Sublime Text 2
+	//	Nexus compact theme for Sublime Text 3
 	//	TABS
 	//	==========================================================
 	//	- Tabset
@@ -7,13 +7,13 @@
 	{
 		"class": "tabset_control",
 		"layer0.texture": "Theme - Nexus/assets/tabset-bg.png",
-		"layer0.inner_margin": [2, 6],
+		"layer0.inner_margin": [2, 0],
 		"layer0.opacity": 1.0,
-		"content_margin": [-13, 0, -13,-6], // left, top, right, bottom
+		"content_margin": [0, -2, 0,-7], // left, top, right, bottom
 		"tab_overlap": 25,
 		"tab_width": 150,
 		"tab_min_width": 40,
-		"tab_height": 32,
+		"tab_height": 26,
 		"mouse_wheel_switch": false
 	},
 	{
